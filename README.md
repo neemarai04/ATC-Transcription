@@ -36,10 +36,6 @@ transcription/
 ├── atc.py
 ├── requirements.txt
 ├── dashboard/
-│   ├── backend/
-│   │   ├── main.py
-│   │   ├── requirements.txt
-│   │
 │   ├── src/
 │   │   ├── App.jsx
 │   │   ├── main.jsx
