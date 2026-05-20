@@ -32,7 +32,7 @@ from pydantic import BaseModel
 # 🔴 Replace with actual LiveATC stream URL before running locally
 STREAM_URL = "REPLACE_WITH_LIVE_ATC_STREAM_URL"
 
-# 🟡 HuggingFace / Whisper model 
+#  Whisper model 
 MODEL_NAME = "jacktol/whisper-medium.en-fine-tuned-for-ATC-faster-whisper"
 
 SAMPLERATE = 16000
