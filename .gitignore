@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+test/
+venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+atc_log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore text files
+code.txt
+code1.txt
