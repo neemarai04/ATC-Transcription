@@ -40,7 +40,9 @@ transcription/
 │   │   ├── App.jsx
 │   │   ├── main.jsx
 │   │   ├── styles.css
+│   ├── index.html
 │   ├── package.json
+│   ├── package-lock.json
 │   ├── vite.config.js
 ```
 
