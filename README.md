@@ -35,7 +35,7 @@ transcription/
 │
 ├── atc.py
 ├── requirements.txt
-├── dashboard/
+├── dashboard/ (frontend)
 │   ├── src/
 │   │   ├── App.jsx
 │   │   ├── main.jsx
