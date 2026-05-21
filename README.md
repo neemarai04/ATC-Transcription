@@ -53,7 +53,7 @@ You may use:
 - Public audio stream endpoints
 - Local testing streams
 
----
+
 
 ### 2. Whisper Model Configuration
 
@@ -66,7 +66,7 @@ MODEL_NAME = "jacktol/whisper-medium.en-fine-tuned-for-ATC-faster-whisper"
 
 You may replace it with another supported Whisper or Faster-Whisper model depending on performance and accuracy requirements.
 
----
+
 
 ### 3. OpenSky Region Filter
 
@@ -167,6 +167,7 @@ This project was developed as part of an industry-oriented internship conducted 
 * Live streaming support
 * Advanced NLP analysis
 
+---
 ## Author
 
 Neema J Rai
