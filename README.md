@@ -4,6 +4,8 @@ An AI-assisted Air Traffic Control (ATC) transcription and aircraft monitoring s
 
 The system leverages AI-powered speech recognition to transcribe live ATC radio communications while integrating real-time aircraft tracking through the OpenSky Network API. It features a React-based dashboard for visualizing transcriptions and monitored aircraft.
 
+---
+
 ## Features
 
 * AI-powered transcription of ATC radio communications
@@ -13,6 +15,7 @@ The system leverages AI-powered speech recognition to transcribe live ATC radio 
 * Interactive React dashboard
 * Backend API for transcription processing
 ---
+
 ## Technologies Used
 
 ### Frontend
@@ -28,6 +31,7 @@ The system leverages AI-powered speech recognition to transcribe live ATC radio 
 * Faster-Whisper
 * OpenSky Network API
 * AI-based transcription
+
 ---
 
 ## Project Structure
@@ -47,7 +51,9 @@ transcription/
 │   ├── package-lock.json
 │   ├── vite.config.js
 ```
+
 ---
+
 ## Installation
 
 ### 1. Clone the Repository
@@ -65,12 +71,11 @@ pip install -r requirements.txt
 ### 3. Install Frontend Dependencies
 
 ```bash
-cd dashboard
+cd frontend
 npm install
 ```
 
 ---
-
 
 ## Configuration
 
@@ -91,8 +96,6 @@ You may use:
 * LiveATC stream URLs (where access is available))
 * Public audio stream endpoints
 * Local testing streams
-
-
 
 ### 2. Whisper Model Configuration
 
@@ -142,10 +145,12 @@ python atc.py
 Open another terminal:
 
 ```bash
-cd dashboard
+cd frontend 
 npm run dev
 ```
+
 ---
+
 ### Open in Browser
 
 After running the frontend, open the local URL shown in the terminal (usually `http://localhost:5173`).
@@ -163,6 +168,7 @@ After running the frontend, open the local URL shown in the terminal (usually `h
 * Flight history and analytics
 
 ---
+
 ## Author
 
 Neema J Rai
