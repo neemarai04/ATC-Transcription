@@ -41,7 +41,7 @@ transcription/
 │
 ├── atc.py
 ├── requirements.txt
-├── frontend/ 
+├── dashboard/ 
 │   ├── src/
 │   │   ├── App.jsx
 │   │   ├── main.jsx
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ### 3. Install Frontend Dependencies
 
 ```bash
-cd frontend
+cd dashboard
 npm install
 ```
 
@@ -145,7 +145,7 @@ python atc.py
 Open another terminal:
 
 ```bash
-cd frontend 
+cd dashboard 
 npm run dev
 ```
 
