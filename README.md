@@ -2,7 +2,7 @@
 
 An AI-assisted Air Traffic Control (ATC) transcription and aircraft monitoring system developed during an internship under the EMBRACE initiative at NITK Surathkal.
 
-The system leverages AI-powered speech recognition to transcribe live ATC radio communications while integrating real-time aircraft tracking through the OpenSky Network API. It features a React-based dashboard for visualizing transcriptions and monitored aircraft.
+The system uses AI-powered speech recognition to transcribe live ATC radio communications streamed from LiveATC while displaying real-time aircraft operating within a configurable airspace region using the OpenSky Network API. It features a React-based dashboard for visualizing transcriptions and aircraft activity in near real time.
 
 ---
 
