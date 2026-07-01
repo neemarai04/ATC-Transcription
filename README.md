@@ -60,6 +60,7 @@ transcription/
 
 ```bash
 git clone https://github.com/neemarai04/ATC-Transcription.git
+cd ATC-Transcription
 ```
 
 ### 2. Install Python Dependencies
